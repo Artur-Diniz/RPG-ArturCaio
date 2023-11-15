@@ -1,0 +1,144 @@
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\bin\Debug\net7.0\appsettings.Development.json
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\bin\Debug\net7.0\appsettings.json
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\bin\Debug\net7.0\RpgMvc.staticwebassets.runtime.json
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\bin\Debug\net7.0\RpgMvc.exe
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\bin\Debug\net7.0\RpgMvc.deps.json
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\bin\Debug\net7.0\RpgMvc.runtimeconfig.json
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\bin\Debug\net7.0\RpgMvc.dll
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\bin\Debug\net7.0\RpgMvc.pdb
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.csproj.AssemblyReference.cache
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.AssemblyInfoInputs.cache
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.AssemblyInfo.cs
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.csproj.CoreCompileInputs.cache
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.MvcApplicationPartsAssemblyInfo.cache
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.RazorAssemblyInfo.cache
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.RazorAssemblyInfo.cs
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\staticwebassets\msbuild.RpgMvc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgMvc.props
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgMvc.props
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgMvc.props
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\staticwebassets.pack.json
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\staticwebassets.build.json
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\staticwebassets.development.json
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\scopedcss\bundle\RpgMvc.styles.css
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\scopedcss\projectbundle\RpgMvc.bundle.scp.css
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.dll
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\refint\RpgMvc.dll
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.pdb
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.genruntimeconfig.cache
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\ref\RpgMvc.dll
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\PastaLocal\2DS\DSI-Luiz e Quiteria\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.csproj.CopyComplete
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\bin\Debug\net7.0\appsettings.Development.json
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\bin\Debug\net7.0\appsettings.json
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\bin\Debug\net7.0\RpgMvc.staticwebassets.runtime.json
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\bin\Debug\net7.0\RpgMvc.exe
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\bin\Debug\net7.0\RpgMvc.deps.json
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\bin\Debug\net7.0\RpgMvc.runtimeconfig.json
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\bin\Debug\net7.0\RpgMvc.dll
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\bin\Debug\net7.0\RpgMvc.pdb
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.csproj.AssemblyReference.cache
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.AssemblyInfoInputs.cache
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.AssemblyInfo.cs
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.csproj.CoreCompileInputs.cache
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.MvcApplicationPartsAssemblyInfo.cache
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.RazorAssemblyInfo.cache
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.RazorAssemblyInfo.cs
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\staticwebassets\msbuild.RpgMvc.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgMvc.props
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgMvc.props
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgMvc.props
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\staticwebassets.build.json
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\staticwebassets.development.json
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\scopedcss\bundle\RpgMvc.styles.css
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\scopedcss\projectbundle\RpgMvc.bundle.scp.css
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.csproj.CopyComplete
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.dll
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\refint\RpgMvc.dll
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.pdb
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\RpgMvc.genruntimeconfig.cache
+F:\Work\Etec\2023-2_2DS_DSI\A14\RpgMvc\obj\Debug\net7.0\ref\RpgMvc.dll
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\RpgMvc.csproj.AssemblyReference.cache
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\RpgMvc.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\RpgMvc.AssemblyInfoInputs.cache
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\RpgMvc.AssemblyInfo.cs
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\RpgMvc.csproj.CoreCompileInputs.cache
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\RpgMvc.MvcApplicationPartsAssemblyInfo.cache
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\RpgMvc.RazorAssemblyInfo.cache
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\RpgMvc.RazorAssemblyInfo.cs
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\RpgMvc.dll
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\refint\RpgMvc.dll
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\RpgMvc.pdb
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\bin\Debug\net7.0\appsettings.Development.json
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\bin\Debug\net7.0\appsettings.json
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\bin\Debug\net7.0\RpgMvc.staticwebassets.runtime.json
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\bin\Debug\net7.0\RpgMvc.exe
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\bin\Debug\net7.0\RpgMvc.deps.json
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\bin\Debug\net7.0\RpgMvc.runtimeconfig.json
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\bin\Debug\net7.0\RpgMvc.dll
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\bin\Debug\net7.0\RpgMvc.pdb
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\staticwebassets\msbuild.RpgMvc.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgMvc.props
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgMvc.props
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgMvc.props
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\staticwebassets.build.json
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\staticwebassets.development.json
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\scopedcss\bundle\RpgMvc.styles.css
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\scopedcss\projectbundle\RpgMvc.bundle.scp.css
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\RpgMvc.csproj.CopyComplete
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\RpgMvc.genruntimeconfig.cache
+F:\Work\Etec\2023-2_2DS_DSI\A15\RpgMvc\obj\Debug\net7.0\ref\RpgMvc.dll
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\RpgMvc.csproj.AssemblyReference.cache
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\RpgMvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\RpgMvc.AssemblyInfoInputs.cache
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\RpgMvc.AssemblyInfo.cs
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\RpgMvc.csproj.CoreCompileInputs.cache
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\RpgMvc.MvcApplicationPartsAssemblyInfo.cache
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\RpgMvc.RazorAssemblyInfo.cache
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\RpgMvc.RazorAssemblyInfo.cs
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\RpgMvc.dll
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\refint\RpgMvc.dll
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\RpgMvc.pdb
+D:\RPG_ArturCaio\RpgMvc\bin\Debug\net7.0\appsettings.Development.json
+D:\RPG_ArturCaio\RpgMvc\bin\Debug\net7.0\appsettings.json
+D:\RPG_ArturCaio\RpgMvc\bin\Debug\net7.0\RpgMvc.staticwebassets.runtime.json
+D:\RPG_ArturCaio\RpgMvc\bin\Debug\net7.0\RpgMvc.exe
+D:\RPG_ArturCaio\RpgMvc\bin\Debug\net7.0\RpgMvc.deps.json
+D:\RPG_ArturCaio\RpgMvc\bin\Debug\net7.0\RpgMvc.runtimeconfig.json
+D:\RPG_ArturCaio\RpgMvc\bin\Debug\net7.0\RpgMvc.dll
+D:\RPG_ArturCaio\RpgMvc\bin\Debug\net7.0\RpgMvc.pdb
+D:\RPG_ArturCaio\RpgMvc\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\RPG_ArturCaio\RpgMvc\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\RPG_ArturCaio\RpgMvc\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\RPG_ArturCaio\RpgMvc\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\staticwebassets\msbuild.RpgMvc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgMvc.props
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgMvc.props
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgMvc.props
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\staticwebassets.pack.json
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\staticwebassets.build.json
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\staticwebassets.development.json
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\scopedcss\bundle\RpgMvc.styles.css
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\scopedcss\projectbundle\RpgMvc.bundle.scp.css
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\RpgMvc.csproj.CopyComplete
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\RpgMvc.genruntimeconfig.cache
+D:\RPG_ArturCaio\RpgMvc\obj\Debug\net7.0\ref\RpgMvc.dll
