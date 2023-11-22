@@ -178,3 +178,39 @@ C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPG-ArturCaio
 C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPG-ArturCaio\obj\Debug\net7.0\RpgMvc.csproj.CopyComplete
 C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPG-ArturCaio\obj\Debug\net7.0\RpgMvc.genruntimeconfig.cache
 C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPG-ArturCaio\obj\Debug\net7.0\ref\RpgMvc.dll
+D:\RPG-ArturCaio\obj\Debug\net7.0\RpgMvc.csproj.AssemblyReference.cache
+D:\RPG-ArturCaio\obj\Debug\net7.0\RpgMvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\RPG-ArturCaio\obj\Debug\net7.0\RpgMvc.AssemblyInfoInputs.cache
+D:\RPG-ArturCaio\obj\Debug\net7.0\RpgMvc.AssemblyInfo.cs
+D:\RPG-ArturCaio\obj\Debug\net7.0\RpgMvc.csproj.CoreCompileInputs.cache
+D:\RPG-ArturCaio\obj\Debug\net7.0\RpgMvc.MvcApplicationPartsAssemblyInfo.cache
+D:\RPG-ArturCaio\obj\Debug\net7.0\RpgMvc.RazorAssemblyInfo.cache
+D:\RPG-ArturCaio\obj\Debug\net7.0\RpgMvc.RazorAssemblyInfo.cs
+D:\RPG-ArturCaio\obj\Debug\net7.0\RpgMvc.dll
+D:\RPG-ArturCaio\obj\Debug\net7.0\refint\RpgMvc.dll
+D:\RPG-ArturCaio\obj\Debug\net7.0\RpgMvc.pdb
+D:\RPG-ArturCaio\bin\Debug\net7.0\appsettings.Development.json
+D:\RPG-ArturCaio\bin\Debug\net7.0\appsettings.json
+D:\RPG-ArturCaio\bin\Debug\net7.0\RpgMvc.staticwebassets.runtime.json
+D:\RPG-ArturCaio\bin\Debug\net7.0\RpgMvc.exe
+D:\RPG-ArturCaio\bin\Debug\net7.0\RpgMvc.deps.json
+D:\RPG-ArturCaio\bin\Debug\net7.0\RpgMvc.runtimeconfig.json
+D:\RPG-ArturCaio\bin\Debug\net7.0\RpgMvc.dll
+D:\RPG-ArturCaio\bin\Debug\net7.0\RpgMvc.pdb
+D:\RPG-ArturCaio\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\RPG-ArturCaio\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\RPG-ArturCaio\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\RPG-ArturCaio\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\RPG-ArturCaio\obj\Debug\net7.0\staticwebassets\msbuild.RpgMvc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\RPG-ArturCaio\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgMvc.props
+D:\RPG-ArturCaio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgMvc.props
+D:\RPG-ArturCaio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgMvc.props
+D:\RPG-ArturCaio\obj\Debug\net7.0\staticwebassets.pack.json
+D:\RPG-ArturCaio\obj\Debug\net7.0\staticwebassets.build.json
+D:\RPG-ArturCaio\obj\Debug\net7.0\staticwebassets.development.json
+D:\RPG-ArturCaio\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\RPG-ArturCaio\obj\Debug\net7.0\scopedcss\bundle\RpgMvc.styles.css
+D:\RPG-ArturCaio\obj\Debug\net7.0\scopedcss\projectbundle\RpgMvc.bundle.scp.css
+D:\RPG-ArturCaio\obj\Debug\net7.0\RpgMvc.csproj.CopyComplete
+D:\RPG-ArturCaio\obj\Debug\net7.0\RpgMvc.genruntimeconfig.cache
+D:\RPG-ArturCaio\obj\Debug\net7.0\ref\RpgMvc.dll

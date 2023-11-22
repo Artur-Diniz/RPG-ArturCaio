@@ -209,7 +209,7 @@ namespace RpgMvc.Controllers
                 string token = HttpContext.Session.GetString("SessionTokenUsuario");
                 httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
-                string uriBasePersonagens = "http://lzsouza.somee.com/RpgApi/Personagens/GetAll";
+                string uriBuscaPersonagens = "http://lzsouza.somee.com/RpgApi/Personagens/GetAll";
                 HttpResponseMessage response = await httpClient.GetAsync(uriBuscaPersonagens);
 
                 string serialized = await response.Content.ReadAsStringAsync();
