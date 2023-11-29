@@ -31,10 +31,7 @@
         <dd>@Html.DisplayFor(model => model.DataAcesso)</dd>
     </dl>
     <button onclick="AlterarEmail();" type="button" class="btn btn-primary">Alterar Email</button>
-    <button onclick="AbrirModalAlrecaoSenha();" type="button" class="btn btn-primary">
-        Alterar Senha
-    </button>
-
+ 
     <!--Conteúdo do modal popup-->
     <div class="modal fade bd-example-modal-lg" id="modalInterno" tabindex="-1" role="dialog"
         aria-labelledby="modalInternoLabel" aria-hidden="true">
@@ -83,40 +80,26 @@
                                     <input type="submit" value="Salvar" class="btn btn-primary" />
                                 </div>
                             </div>
-                            <!-- Modal externo -->
-                            <div class="modal" id="modalExterno" tabindex="-1" role="dialog"
-                                arialabelledby="modalExternoLabel" aria-hidden="true">
-                                <div class="modal-dialog" role="document">
-                                    <div class="modal-content">
-                                        <div class="modal-header">
-                                            <h5 class="modal-title" id="modalExternoLabel">
-                                                @TempData["TituloModalExterno"]
-                                            </h5>
-                                            <button type="button" class="btn-close" data-bs-dismiss="modal"
-                                                arialabel="Close">
-                                            </button>
-                                        </div>
-                                        <div class="modal-body">
-                                        </div>
-                                        <div class="modal-footer">
-                                            <button type="button" class="btn btn-secondary"
-                                                data-bsdismiss="modal">Fechar</button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+
                         </div>
                     }
                 </div>
             </div>
         </div>
     </div>
+    
+       <button onclick="AbrirModalAlrecaoSenha();" type="button" class="btn btn-primary">
+        Alterar Senha
+    </button>
+
 
     <script type="text/javascript">
 
         function AbrirModalAlteracaoSenha() {
             $.ajax({
-                url: "@Url.Action("ObterDadosAlteracaoSenha", "Usuarios")",  //data: { nomeProp1: valorProp1, nomeProp2: valorProp2, },success: function (retorno) {
+                url: "@Url.Action("ObterDadosAlteracaoSenha", "Usuarios")",  
+                //data: { nomeProp1: valorProp1, nomeProp2: valorProp2, },
+                success: function (retorno) {
                 $("#modalExterno .modal-dialog .modal-content .modal-body").html(retorno);
                 $("#modalExterno").modal("show");
             }
@@ -128,3 +111,24 @@
         }
 
     </script>
+
+    <!-- Modal externo -->
+    <div class="modal" id="modalExterno" tabindex="-1" role="dialog" arialabelledby="modalExternoLabel"
+        aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="modalExternoLabel">
+                        @TempData["TituloModalExterno"]
+                    </h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" arialabel="Close">
+                    </button>
+                </div>
+                <div class="modal-body">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bsdismiss="modal">Fechar</button>
+                </div>
+            </div>
+        </div>
+    </div>

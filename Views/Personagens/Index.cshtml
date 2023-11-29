@@ -52,11 +52,8 @@
                  ,new { onclick = "return confirm('Deseja realmente deletar este personagem ?');"})|
                 @Html.ActionLink("Listar Habilidades", "Index", "Personagenshabilidades", new {id = item.Id})|
                 @Html.ActionLink("Atribuir Habilidade", "Create", "personagenshabilidades", new {id = item.Id, nome = item.Nome})|
-
-                @Html.ActionLink("Restaurar Pontos Vida", "RestauraPontosvida", new {id = item.Id}
-                 , new { onclick = "return confirm('Deseja realmente resturar pontos de vida?'):"})|
-                 @Html.ActionLink("Zerar Raking", "ZerarRanking", new {id = item.Id}
-                 , new { onclick = "return confirm('Deseja realmente zerar ranking?');"})
+                @Html.ActionLink("Restaurar Pontos Vida", "RestauraPontosvida", new {id = item.Id}, new { onclick = "return confirm('Deseja realmente resturar pontos de vida?'):"})|
+                 @Html.ActionLink("Zerar Raking", "ZerarRanking", new {id = item.Id}, new { onclick = "return confirm('Deseja realmente zerar ranking?');"})
 
             </td>
         </tr>
@@ -66,14 +63,14 @@
 @Html.ActionLink("Clique aqui para  um embate com armas!!!", "Index", "Disputas",
 null, new { @class = "btn btn-warning"})
 
-@Html.ActionLink("Clique aqui para um embate com hablidade!!!","IndexHablidades","Disputas",
+@Html.ActionLink("Clique aqui para um embate com hablidades!!!","IndexHabilidades","Disputas",
     null, new { @class = "btn btn-dark"})
 
 @Html.ActionLink("Clique aqui para um embate em Grupo!!!","DisputaGeral","Disputas",
-    null, new { @class = "btn btn-dark"})
+    null, new { @class = "btn btn-danger"})
 
-@Html.ActionLink("Zerar ranking e restaurar vida","ZerarRankingRestaurarPontosVidas","Personagens",
-    null, new { @class = "btn btn-dark", onclick = "return confrim('Deseja realmente realizar esta ação ?');"})
+@Html.ActionLink("Zerar ranking e restaurar vida","ZerarRankingRestaurarVidas","Personagens",
+    null, new { @class = "btn btn-secondary", onclick = "return confrim('Deseja realmente realizar esta ação ?');"})
 
 
 

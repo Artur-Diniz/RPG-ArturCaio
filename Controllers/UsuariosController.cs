@@ -135,7 +135,7 @@ namespace RpgMvc.Controllers
 
                 string uriComplementar = "AtualizarEmail";
                 var content = new StringContent(JsonConvert.SerializeObject(u));
-                content.Headers.ContentType = new MediaTypeHeaderValue("aplication/json");
+                content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
 
                 HttpResponseMessage response = await httpClient.PutAsync(uriBase + uriComplementar, content);
                 string serialized = await response.Content.ReadAsStringAsync();

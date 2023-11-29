@@ -117,7 +117,7 @@ namespace RpgMvc.Controllers
                 httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
                 var content = new StringContent(JsonConvert.SerializeObject(ph));
-                content.Headers.ContentType = new MediaTypeHeaderValue("aplication/json");
+                content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
                 HttpResponseMessage response = await httpClient.PostAsync(uriBase, content);
                 string serialized = await response.Content.ReadAsStringAsync();
 
