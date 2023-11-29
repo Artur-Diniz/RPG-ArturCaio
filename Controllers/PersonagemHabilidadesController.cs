@@ -7,7 +7,7 @@ namespace RpgMvc.Controllers
 {
     public class PersonagemHabilidadesController : Controller
     {
-        public string uriBase = "http://lzsouza.somee.com/RpgApi/PersonagemHabilidades/";
+        public string uriBase = "http://arturdiniz2023.somee.com/RpgApi/PersonagemHabilidades/";
 
         [HttpGet("PersonagemHabilidades/{id}")]
         public async Task<ActionResult> IndexAsync(int id)
@@ -114,16 +114,16 @@ namespace RpgMvc.Controllers
             {
                 HttpClient httpClient = new HttpClient();
                 string token = HttpContext.Session.GetString("SessionTokenUsuario");
-                httpClient.DefaultRequestHeaders.Authorization = new AuthentucatuinHeaderValue("Bearer", token);
+                httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
-                var content = new StringContent(JsonConvert.SerializeObject(PH));
+                var content = new StringContent(JsonConvert.SerializeObject(ph));
                 content.Headers.ContentType = new MediaTypeHeaderValue("aplication/json");
                 HttpResponseMessage response = await httpClient.PostAsync(uriBase, content);
                 string serialized = await response.Content.ReadAsStringAsync();
 
                 if (response.StatusCode == System.Net.HttpStatusCode.OK)
                 {
-                    temData["Mensagem"] = "Habilidae cadastrada com sucesso";
+                    TempData["Mensagem"] = "Habilidae cadastrada com sucesso";
                 }
                 else 
                 throw new System.Exception(serialized);
@@ -134,7 +134,7 @@ namespace RpgMvc.Controllers
                 TempData["MensagemErro"] = ex.Message;
                 
             }
-            return RedirectToAction("Index", new { id = pg.PersonagemId });
+            return RedirectToAction("Index", new { id = ph.PersonagemId });
         }
 
     }

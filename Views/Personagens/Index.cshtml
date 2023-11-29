@@ -48,11 +48,16 @@
             <td><!--Coluna para Links/botões-->
                 @Html.ActionLink("Editar", "Edit", new { id = item.Id } ) |
                 @Html.ActionLink("Detalhes", "Details", new { id = item.Id }) |
-                @Html.ActionLink("Deletar", "Delete", new { id = item.Id }
-                , new { onclick = "return confirm('Deseja realmente deletar este personagem ?');"}) 
-                               
-                
-                
+                @Html.ActionLink("Deletar", "Delete", new { id = item.Id }           
+                 ,new { onclick = "return confirm('Deseja realmente deletar este personagem ?');"})|
+                @Html.ActionLink("Listar Habilidades", "Index", "Personagenshabilidades", new {id = item.Id})|
+                @Html.ActionLink("Atribuir Habilidade", "Create", "personagenshabilidades", new {id = item.Id, nome = item.Nome})|
+
+                @Html.ActionLink("Restaurar Pontos Vida", "RestauraPontosvida", new {id = item.Id}
+                 , new { onclick = "return confirm('Deseja realmente resturar pontos de vida?'):"})|
+                 @Html.ActionLink("Zerar Raking", "ZerarRanking", new {id = item.Id}
+                 , new { onclick = "return confirm('Deseja realmente zerar ranking?');"})
+
             </td>
         </tr>
     }    

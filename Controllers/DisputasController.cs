@@ -7,7 +7,7 @@ namespace RpgMvc.Controllers
 {
     public class DisputasController : Controller
     {
-        public string uriBase = "http://lzsouza.somee.com/RpgApi/Disputas/";
+        public string uriBase = "http://arturdiniz2023.somee.com/RpgApi/Disputas/";
 
 
 
@@ -20,7 +20,7 @@ namespace RpgMvc.Controllers
                 string token = HttpContext.Session.GetString("SessionTokenUsuario");
                 httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
-                string uriBuscaPersonagens = "http://lzsouza.somee.com/RpgApi/Personagens/GetAll";
+                string uriBuscaPersonagens = "http://arturdiniz2023.somee.com/RpgApi/Personagens/GetAll";
                 HttpResponseMessage response = await httpClient.GetAsync(uriBuscaPersonagens);
                 string serialized = await response.Content.ReadAsStringAsync();
 
